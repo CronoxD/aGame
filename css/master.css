@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+#dibujo{
+  border: 2px solid gray;
+  margin-top: 50px;
+  background: #81BEF7;
+}
